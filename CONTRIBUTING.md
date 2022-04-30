@@ -1,5 +1,5 @@
 # this is the contributing file
-* Contributer: Naima O.
+* Contributor: Naima O.
 * Username: no26829
 
 
